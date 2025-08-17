@@ -1,0 +1,108 @@
+📊 Vrinda Sales Annual Report 2022
+
+This project analyzes Vrinda Store’s sales performance in 2022 and presents insights using an interactive Excel dashboard. The dashboard provides a clear overview of sales trends, customer demographics, top-performing regions, and order distribution across multiple sales channels.
+
+🚀 Project Overview
+
+The purpose of this project is to help Vrinda Store understand its business performance through data-driven insights. By analyzing sales and orders, we can identify:
+
+Which customer segments contribute the most revenue
+
+Which states and channels drive maximum sales
+
+Seasonal trends in sales and order volumes
+
+Product category performance
+
+📂 Dataset
+
+The dataset contains order-level details for Vrinda Store in 2022, including:
+
+Order ID
+
+Amount
+
+Order Date
+
+Channel (Amazon, Flipkart, Meesho, Myntra, etc.)
+
+Category (Blouse, Saree, Kurta, etc.)
+
+Customer demographics (Age, Gender, State)
+
+Order Status (Delivered, Returned, Cancelled, Refunded)
+
+📈 Dashboard Insights
+
+The dashboard answers several key business questions:
+
+Orders vs Sales Trend (Monthly)
+
+Peak sales in March
+
+Noticeable dip during October–December
+
+Sales by Gender
+
+Women contribute 69% of total sales
+
+Men contribute only 31%
+
+Order Status
+
+92% Delivered successfully
+
+3% Cancelled
+
+Minor proportions Returned/Refunded
+
+Top 5 States by Sales
+
+Maharashtra (2.99M)
+
+Karnataka (2.65M)
+
+Uttar Pradesh (2.10M)
+
+Telangana (1.71M)
+
+Tamil Nadu (1.68M)
+
+Orders by Age Group
+
+Adults (35% Women, 15.6% Men) dominate purchases
+
+Teenagers also show strong participation
+
+Orders by Channel
+
+Amazon (35%) and Flipkart (22%) are the leading platforms
+
+Myntra (23%) also has a significant share
+
+Ajio, Meesho, Nalli, and Others make up the rest
+
+🛠️ Tools & Technologies
+
+Excel (Pivot Tables, Charts, Slicers, Interactive Dashboard)
+
+Power Query (for cleaning and preparing data)
+
+📊 Dashboard Preview
+
+📌 Key Learnings
+
+Built a professional Excel sales dashboard with slicers for Month, Channel, and Category.
+
+Learned how to perform end-to-end data cleaning, aggregation, and visualization in Excel.
+
+Gained insights into customer behavior, sales channels, and product performance.
+
+🤝 Contributing
+
+Feel free to fork this repo, suggest improvements, or use the dataset to practice your own dashboards.
+
+📬 Contact
+
+Created by Akshay Hooda 👨‍💻
+GitHub
